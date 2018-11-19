@@ -1,2 +1,2 @@
-# test-repo
-Prosty test do nauki
+# First test GitHub
+Prosty test do nauki Obsługi Repo
